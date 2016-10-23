@@ -1,17 +1,16 @@
 ---
 layout: page
 title: About
-cover: /images/covers/welcome.jpg # Header cover [optional]
-image: /images/covers/welcome.jpg # Used by Twitter Cards and Open Graph [optional]
+cover: /images/covers/gold.jpg
+#image: /images/covers/welcome.jpg
 excerpt: About dEATH nOTES project.
 permalink: /about/
 ---
 
-## About
+This blog lives to **talk**, **share** and **educate** people around the central theme of **death**.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Thanks to a collective of people who are writing those articles, the blog is willing to transmit a diversity of sensibility about this sensitive subject.
+
+This blog is willing to be secular even though some spirituality could arise from some articles since all spiritual traditions cohere on addressing the subject.
+
+*A resource page will be coming soon with public talks, books and who knows...*
