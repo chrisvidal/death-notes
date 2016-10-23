@@ -16,7 +16,7 @@ navigation:
     label: About
 
 # Services (all are optional)
-analytics: UA-XXX-V # Google Analytics tracking ID
+analytics: UA-86167762-1 # Google Analytics tracking ID
 disqus: #jasper-theme    # Disqus shortname
 facebook_l10n: en_US    # Your locale (en_US, fr_FR, etc.)
 twitter:     # Website's Twitter username (without the '@')
