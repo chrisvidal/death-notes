@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  {% capture template %}
+    {% if page.post_class %}
+      {{ page.post_class }}
+    {% elsif layout.post_class %}
+      {{ layout.post_class }}
+    {% elsif page.post_class == nil %}
+      {% if paginator.page != 1 %}
+        archive-template
+      {% else %}
+        home-template
+      {% endif %}
+    {% endif %}
+  {% endcapture%}
+
+  <body class="{{ template | strip }} nav-closed">
+    {% include navigation.html %}
+
+    <div class="site-wrapper">
+      {% include header.html header_class=layout.header_class %}
+
+      {{ content }}
+
+      {% include footer.html %}
+    </div>
+
+    {% if site.disqus == 'jasper-theme' %}
+    <a class="github-fork-ribbon right-bottom fixed" href="https://github.com/Pym/Jasper" title="Fork me on GitHub">Fork me on GitHub</a>
+    {% endif %}
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script type="text/javascript" src="{{ "/assets/js/jquery.fitvids.js" | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ "/assets/js/index.js" | prepend: site.baseurl }}"></script>
+    {% if site.analytics %}{% include analytics.html %}{% endif %}
+  </body>
+</html>
