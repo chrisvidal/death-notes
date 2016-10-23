@@ -105,6 +105,10 @@ Pagination **only works on the index**. This is a limitation of jekyll-paginate.
 
 Thanks to Jekyll [Data Files](https://jekyllrb.com/docs/datafiles/), Jasper let you [add as much authors as you want](#add-an-author)!
 
+````cmd
+bundle exec jekyll serve --config _config.yml,_config.dev.yml
+````
+
 #### Gravatar Integration
 
 Your [Gravatar](https://en.gravatar.com/) will be displayed every time your author's name will show up. Choose it wisely!

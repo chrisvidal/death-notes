@@ -1,6 +1,7 @@
 # Site settings
 title: dEATH nOTES
-logo: /images/logo.png
+#logo: /images/logo.png
+logo_text: dn
 description: ~ Death is certain ~ Time of death is uncertain ~
 baseurl:  # the subpath of your site, e.g. /blog
 url: http://death-notes.net # the base hostname & protocol for your site
@@ -11,23 +12,44 @@ header:
 
 # Navigation
 navigation:
-  - slug: /README.html
-    label: Jasper
-  - about: /about.html
+  - slug: /about
     label: About
 
 # Services (all are optional)
 analytics: UA-XXX-V # Google Analytics tracking ID
-disqus: jasper-theme    # Disqus shortname
+disqus: #jasper-theme    # Disqus shortname
 facebook_l10n: en_US    # Your locale (en_US, fr_FR, etc.)
 twitter:     # Website's Twitter username (without the '@')
 
 # Build settings
+# Reading Files
+include:
+  - _pages
 exclude: [CNAME, Gemfile, Gemfile.lock]
 markdown: kramdown
 kramdown:
   input: GFM # Enable GitHub Flavored Markdown
 
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author_profile: false
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+      author_profile: false
 # Plugins
 gems: [jekyll-paginate]
 paginate: 5 # Post excerpts by page
