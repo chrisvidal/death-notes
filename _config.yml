@@ -13,9 +13,9 @@ header:
 # Navigation
 navigation:
   - slug: /about
-    label: About
+    label: about
   - slug: /resources
-    label: Resources
+    label: resources
 
 # Services (all are optional)
 analytics: UA-86167762-1 # Google Analytics tracking ID

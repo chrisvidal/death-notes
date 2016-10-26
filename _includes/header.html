@@ -6,10 +6,10 @@
     <a class="blog-logo" href="{{ site.url | append: site.baseurl }}">{% include site-logo.html %}</a>
   {% endif %}
 
-   <a href="{{ site.url | append: site.baseurl }}">{{ site.title }}</a> &nbsp; : &nbsp;
+   <a href="{{ site.url | append: site.baseurl }}">{{ site.title }}</a>
   {% if site.navigation %}
     {% for item in site.navigation %}
-        <a href="{{ item.slug | prepend: site.baseurl }}">{{ item.label }}</a>
+        &nbsp; :: &nbsp;<a href="{{ item.slug | prepend: site.baseurl }}">{{ item.label }}</a>
     {% endfor %}
   {% endif %}
   {% if site.navigation %}
