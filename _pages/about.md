@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About
-cover: /images/covers/gold.jpg
-#image: /images/covers/welcome.jpg
-excerpt: About dEATH nOTES project.
-permalink: /about/
+image: /images/covers/gold.jpg
+excerpt: About death-notes project
 ---
-
 This blog lives to **talk**, **share** and **educate** people around the central theme of **death**.
 
-Thanks to a collective of people who are writing those articles, the blog is willing to transmit a diversity of sensibility about this sensitive subject.
+Thanks to a collective of people who are writing those articles, the blog is willing to transmit a diversity of sensibility about the subject.
 
-This blog is willing to be secular even though some spirituality could arise from some articles since all spiritual traditions cohere on addressing the subject.
+This blog is willing to be secular even though some spirituality could arise from some articles since all spiritual traditions cohere on addressing the subject on a deep level. It would be quite a loss if we were denying their teachings.
 
-*A resource page will be coming soon with public talks, books and who knows...*
+And they all agree that *dying well* is *living well*...
