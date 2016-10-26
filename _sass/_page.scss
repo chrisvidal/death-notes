@@ -1,0 +1,36 @@
+body {
+    padding: 2rem;
+}
+.border {
+    position: fixed;
+    background: #1a1a1a;
+    z-index: 102;
+    -webkit-transition: all 2s cubic-bezier(0.19,1,.22,1);
+    transition: all 2s cubic-bezier(0.19,1,.22,1);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+.border.horizontal {
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 2rem;
+}
+.border.top {
+    top: 0;
+}
+.border.bottom {
+    bottom: 0;
+}
+.border.left {
+    left: 0;
+}
+.border.vertical {
+    top: 0;
+    bottom: 0;
+    width: 2rem;
+    height: 100%;
+}
+.border.right {
+    right: 0;
+}
