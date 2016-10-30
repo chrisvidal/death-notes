@@ -5,6 +5,7 @@ permalink: /about
 image: /images/covers/gold.jpg
 excerpt: About death-notes project
 author: christophe
+date: 2016-10-30
 ---
 Hi, my name is Christophe and i decided to start this blog to create an open space on the theme of death.
 
@@ -16,4 +17,4 @@ This blog is willing to be secular even though some spirituality  ideas could ar
 
 ***And they all agree that dying well is living well.***
 
-Getting started with the [introduction article](/introduction)
+Getting started with the [introduction article](/introduction) followed by the *getting started* article (coming soon).

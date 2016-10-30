@@ -14,7 +14,7 @@
             {% else %}
               {% assign active = "" %}
             {% endif %}
-        &nbsp; :: &nbsp;<a href="{{ item.slug | prepend: site.baseurl }}" class="{{active}}">{{ item.label }}</a>
+        &nbsp; // &nbsp;<a href="{{ item.slug | prepend: site.baseurl }}" class="{{active}}">{{ item.label }}</a>
     {% endfor %}
   {% endif %}
   {% if site.navigation %}

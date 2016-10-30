@@ -1,6 +1,12 @@
+.content a:not[read-more] {
+    text-decoration: none;
+    border-bottom: 1px dashed #111;
+}
 .main-nav a {
     letter-spacing: .1em;
     color: #fff;
+    border: none;
+    &:hover,
     &.active {
         color: #999;
     }

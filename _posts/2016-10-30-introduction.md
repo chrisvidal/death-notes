@@ -13,7 +13,7 @@ During winter 1999-2000, i was not prepared at all to assist a dying person, my 
 Many of us will probably recognise themselves in this common story after all.
 Meeting death during our lifetime is ineluctable. No need to lie to ourselves, this one is really for certain.
 
-After the events (*Note to self: find something better*), life is going on, and during the three months after, just to amplify the existing situation, my wife and i divorced and i loose my job for economical reason at that time (Internet crash in 2000).
+After this tragic events, life is still going on, and during the three months after just to amplify the current situation, my wife and i divorced and i loose my job for economical reason at that time (Internet crash in 2000).
 
 To cope with all of this, i unconsciously buried the death of my father in law, deep deep inside. I decided to avoid facing this challenges, pretexting to myself that it never happened.
 Yes quite good strategy. I’m still surprised how easy it was to ignore and burry this.
