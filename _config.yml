@@ -45,6 +45,7 @@ defaults:
       comments: false
       share: true
       related: true
+      is_post: true
   # _pages
   - scope:
       path: ""
@@ -52,6 +53,7 @@ defaults:
     values:
       layout: page
       author_profile: false
+      is_page: true
 # Plugins
 gems: [jekyll-paginate]
 paginate: 5 # Post excerpts by page

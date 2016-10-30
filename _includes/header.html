@@ -9,7 +9,12 @@
    <a href="{{ site.url | append: site.baseurl }}">{{ site.title }}</a>
   {% if site.navigation %}
     {% for item in site.navigation %}
-        &nbsp; :: &nbsp;<a href="{{ item.slug | prepend: site.baseurl }}">{{ item.label }}</a>
+            {% if page.url == item.slug %}
+                {% assign active = "active" %}
+            {% else %}
+              {% assign active = "" %}
+            {% endif %}
+        &nbsp; :: &nbsp;<a href="{{ item.slug | prepend: site.baseurl }}" class="{{active}}">{{ item.label }}</a>
     {% endfor %}
   {% endif %}
   {% if site.navigation %}
@@ -24,5 +29,14 @@
     </div>
   </div>
   <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
+{% endif %}
+{% if page.is_home %}
+<div class="audio-container">
+    <p class="track"> <span><span></span></span></p>
+    <button data-am-button="small" id="btn-mute"><i class="fa fa-volume-up"></i></button>
+    <!-- <button data-am-button="large" id="btn-play-pause"><i class="fa fa-play"></i></button> -->
+    <!-- <button data-am-button="small" id="btn-stop"><i class="fa fa-stop"></i></button> -->
+    <div id="progress-bar"><span id="progress" style="width: 4%;"></span></div>
+</div>
 {% endif %}
 </header>
