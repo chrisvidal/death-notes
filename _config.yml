@@ -1,6 +1,6 @@
 # Site settings
 title: (d)EATH (n)OTES
-#logo: /images/logo.png
+logo: /images/logo.png
 logo_text: dn
 description: ~ Death is certain ~ Time of death is uncertain ~
 baseurl:  # the subpath of your site, e.g. /blog
