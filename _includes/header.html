@@ -6,7 +6,7 @@
     <a class="blog-logo" href="{{ site.url | append: site.baseurl }}">{% include site-logo.html %}</a>
   {% endif %}
 
-   <a href="{{ site.url | append: site.baseurl }}">{{ site.title }}</a>
+   <a href="{{ site.url | append: site.baseurl }}" class="logo">{{ site.title }}</a>
   {% if site.navigation %}
     {% for item in site.navigation %}
             {% if page.url == item.slug %}
