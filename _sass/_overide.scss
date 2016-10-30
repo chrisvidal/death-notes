@@ -30,3 +30,12 @@ body:not(.post-template) .post-title,
 body:not(.page-template) .post-title {
     font-size: 3.6rem;
 }
+
+body {
+    width: 100%;
+    // height: 2427px;
+    background: url(/images/bg.jpg) top center/cover no-repeat
+}
+.site-wrapper {
+    background-color: transparent;
+}
