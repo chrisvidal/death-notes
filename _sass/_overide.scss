@@ -25,3 +25,8 @@
 // .no-cover.main-header {
 //     background: #E2D85A;
 // }
+
+body:not(.post-template) .post-title,
+body:not(.page-template) .post-title {
+    font-size: 3.6rem;
+}

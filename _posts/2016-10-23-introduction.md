@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to death notes!"
+title:  "Introduction"
 #categories: jekyll update
-author: tsun
+author: christophe
 excerpt: How many of us have lost a brother, a father, a mother, a son, a daughter, someone really close to us ?
 #cover: /images/covers/welcome.jpg # Header cover [optional]
 #image: /images/covers/welcome.jpg # Used by Twitter Cards and Open Graph [optional]
