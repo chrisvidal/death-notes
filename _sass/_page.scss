@@ -25,6 +25,13 @@ button {
     vertical-align: middle;
     -webkit-transition: all 0.2s ease 0;
     transition: all 0.2s ease 0;
+    &:hover {
+        color: #999;
+        border-color: #999;
+    }
+    &:focus {
+        outline: none;
+    }
 }
 
 button[data-am-button^="small"] {

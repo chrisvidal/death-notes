@@ -1,8 +1,9 @@
 .main-nav a {
     letter-spacing: .1em;
-    // .home-template & {
-        color: #fff;
-    // }
+    color: #fff;
+    &.active {
+        color: #999;
+    }
 }
 .post-head.main-header {
     box-shadow: inset 0 0 0 1000px rgba(255,255,255,.2);
@@ -13,10 +14,7 @@
     color: #fff;
 }
 .no-cover .page-description {
-    // .home-template & {
-        color: #fff;
-        // text-shadow: none;
-    // }
+    color: #fff;
 }
 .no-cover.post-head.main-header {
     height: 85px;
@@ -28,6 +26,8 @@
     // background: #f5f8fa;
     background: #40424c;
 }
+
+
 
 // .no-cover.main-header {
 //     background: #E2D85A;
