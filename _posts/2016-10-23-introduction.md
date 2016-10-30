@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Introduction"
+permalink: "/introduction"
 #categories: jekyll update
 author: christophe
 excerpt: How many of us have lost a brother, a father, a mother, a son, a daughter, someone really close to us ?
