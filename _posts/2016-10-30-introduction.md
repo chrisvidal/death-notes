@@ -26,6 +26,7 @@ I just had to face it with all my vulnerabilities and strength, alone at start. 
 After few months, a Dharma sister was organising an [event](https://thestillspace.org/what-we-do/workshops-and-events/death-cafe/), a death cafe event following the concept from the [creator](http://deathcafe.com/). A meeting where people meet freely and can talk about their own death experiences, totally open, secular, judgment free. I immediately ran into it and find so much peace by talking about my experiences. Verbalising questions, expressing hidden emotions, listening to others sharing, really integrating the fact that death is for everyone down here opened the doors of my heart.
 So much work to be done and yet talking about it was so relieving, freeing and a deep opening experience.
 
-To continue this inner work, i’m started this blog, hoping to attend or organise perhaps some death cafe event in the future.
+This is how took birth this blog, this precious joy of an inner  journey based on the waves of sufferings, joy which gleam above all this apparent chaos.
+
 
 ***If you could give yourself a gift this year, it would be talking about death openly and kindly with someone.***
