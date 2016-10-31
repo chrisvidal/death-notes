@@ -24,8 +24,6 @@ Thanks to a collective of people who are writing those articles, the blog is wil
 
 This blog is willing to be secular even though some spirituality  ideas could arise from some articles since all spiritual traditions cohere on addressing the subject on a deep level. It would be quite a loss if we were denying their teachings.
 
-***And they all agree that dying well is living well.***
-
 
 ### Content guide
 
