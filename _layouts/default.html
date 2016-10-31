@@ -36,11 +36,10 @@
     <script type="text/javascript" src="{{ "/assets/js/index.js" | prepend: site.baseurl }}"></script>
     {% if site.analytics %}{% include analytics.html %}{% endif %}
     {% if page.is_home %}
-<span class="title">Audio</span>
-<audio loop controls autoplay id="player">
-    <source src="/medias/audio/Singing_Bowls_Throat.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-</audio>
+    <audio loop controls autoplay id="player">
+        <source src="/medias/audio/Singing_Bowls_Throat.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
     {% endif %}
   </body>
 </html>
