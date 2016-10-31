@@ -33,6 +33,22 @@
     background: #40424c;
 }
 
+.site-title {
+    font-size: .95em;
+    text-align: center;
+    display: block;
+    color: #fff;
+    margin-bottom: 15px;
+
+    a {
+        color: inherit;
+        text-decoration: none;
+        &:before {
+            content: '∞ ';
+            color: inherit;
+        }
+    }
+}
 
 @media only screen and (min-device-width: 320px)
   and (max-device-width: 480px) {
