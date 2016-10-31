@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why this blog"
+title:  "Start here"
 permalink: "/introduction"
 #categories: jekyll update
 author: christophe
