@@ -10,7 +10,7 @@ date: 2016-10-30
 
 >Dying well is living well
 
-Death Notes is about bringing awareness about the subject of death. It is about openly talking about death before it is too late, it is about acknowledging our own death so that we can  bring more happiness into our own life and more care in other people life more but also it is about discovering meaning to our life.
+Death Notes is about bringing awareness about the subject of death. It is about openly talking about death before it is too late, it is about acknowledging our own death so that we can  bring more happiness into our own life and more care in other people life but also it is about discovering meaning to our life.
 I strongly believe that death does not have to be painful and that we can learn so much from it.
 
 Hi, my name is Christophe and i decided to start this blog to create an open space on the theme of death.
