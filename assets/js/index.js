@@ -22,7 +22,7 @@
 
         var audioKeyName = 'audioDeathNotes',
             playAudio = !sessionStorage.getItem( audioKeyName );
-
+console.log(playAudio);
          // audio stuff ref: http://codepen.io/alexerlandsson/pen/JoQaQO
         $(function() {
 
@@ -32,24 +32,24 @@
 
                 if (!playAudio) {
                     audio.pause();
-                    $('#btn-mute').children('i').removeClass('fa-pause');
-                    $('#btn-mute').children('i').addClass('fa-play');
+                    $('#btn-mute').children('i').removeClass('fa-volume-up');
+                    $('#btn-mute').children('i').addClass('fa-volume-off');
                 }
 
-                $('#btn-mute').on('click', function() {
-                    //Play/pause the track
-                    if (audio.paused == false) {
-                        audio.pause();
-                        $(this).children('i').removeClass('fa-pause');
-                        $(this).children('i').addClass('fa-play');
-                        sessionStorage.setItem(audioKeyName, 'true');
-                    } else {
-                        audio.play();
-                        $(this).children('i').removeClass('fa-play');
-                        $(this).children('i').addClass('fa-pause');
-                        sessionStorage.removeItem(audioKeyName);
-                    }
-                });
+                // $('#btn-play-pause').on('click', function() {
+                //     //Play/pause the track
+                //     if (audio.paused == false) {
+                //         audio.pause();
+                //         $(this).children('i').removeClass('fa-pause');
+                //         $(this).children('i').addClass('fa-play');
+                //         sessionStorage.setItem(audioKeyName, 'true');
+                //     } else {
+                //         audio.play();
+                //         $(this).children('i').removeClass('fa-play');
+                //         $(this).children('i').addClass('fa-pause');
+                //         sessionStorage.removeItem(audioKeyName);
+                //     }
+                // });
 
                 // $('#btn-stop').on('click', function() {
                 //     //Stop the track
@@ -59,18 +59,23 @@
                 //     $('#btn-play-pause').children('i').addClass('fa-play');
                 // });
 
-                // $('#btn-mute').on('click', function() {
+                $('#btn-mute').on('click', function() {
                 //     //Mutes/unmutes the sound
-                //     if(audio.volume != 0) {
-                //         audio.volume = 0;
-                //         $(this).children('i').removeClass('fa-volume-off');
-                //         $(this).children('i').addClass('fa-volume-up');
-                //     } else {
-                //         audio.volume = 1;
-                //         $(this).children('i').removeClass('fa-volume-up');
-                //         $(this).children('i').addClass('fa-volume-off');
-                //     }
-                // });
+                    // if(audio.volume != 0) {
+                    if (audio.paused) {
+                        audio.play();
+                        // audio.volume = 0;
+                        $(this).children('i').removeClass('fa-volume-off');
+                        $(this).children('i').addClass('fa-volume-up');
+                        sessionStorage.removeItem(audioKeyName);
+                    } else {
+                        audio.pause();
+                        // audio.volume = 1;
+                        $(this).children('i').removeClass('fa-volume-up');
+                        $(this).children('i').addClass('fa-volume-off');
+                        sessionStorage.setItem(audioKeyName, 'true');
+                    }
+                });
 
                 var progress = document.getElementById("progress");
 
