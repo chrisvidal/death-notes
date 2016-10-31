@@ -22,7 +22,7 @@
 
         var audioKeyName = 'audioDeathNotes',
             playAudio = !sessionStorage.getItem( audioKeyName );
-console.log(playAudio);
+
          // audio stuff ref: http://codepen.io/alexerlandsson/pen/JoQaQO
         $(function() {
 
