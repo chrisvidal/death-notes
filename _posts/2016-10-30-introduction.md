@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Start here"
+title:  "Introduction"
 permalink: "/introduction"
 #categories: jekyll update
 author: christophe

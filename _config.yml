@@ -13,9 +13,9 @@ header:
 # Navigation
 navigation:
   - slug: /about
-    label: about
-  - slug: /resources
-    label: resources
+    label: Start here
+#  - slug: /resources
+#    label: resources
 
 #
 permalink: pretty
