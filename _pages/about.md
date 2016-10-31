@@ -27,5 +27,5 @@ This blog is willing to be secular even though some spirituality  ideas could ar
 
 ### Content guide
 
-- the reason of the existence of this [death-notes blog](/) explained trough my experience with death in the [introduction](/introduction) article.
+- the reason of the existence of this [Death Notes](/) website explained trough my experience with death in the [introduction](/introduction) article.
 - getting started with death in the [getting started](/getting-started) article.
