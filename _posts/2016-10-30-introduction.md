@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction"
+title:  "Why this blog"
 permalink: "/introduction"
 #categories: jekyll update
 author: christophe
@@ -18,7 +18,7 @@ After this tragic events, life is still going on, and during the three months af
 To cope with all of this, i unconsciously buried the death of my father in law, deep deep inside. I decided to avoid facing this challenges, pretexting to myself that it never happened.
 Yes quite good strategy. I’m still surprised how easy it was to ignore and burry this.
 It worked very very well actually…
-Until recently when i received an unexpected invitation with death recently, 17 years later, 2 times in the early 2016. A young student of mine (i’m also a filipino martial art teacher) living a poor healthy life for years started to have serious health issue, serious complication that could be fatal. He is now safe, freed himself by living a much more healthy lifestyle and totally change the way he look at life now. The powerful impact of changing our way to look at things is really tremendous.
+Until recently when i received an unexpected invitation with death, 17 years later, 2 times in the early 2016. A young student of mine (i’m also a filipino martial art teacher) living a poor healthy life for years started to have serious health issue, serious complication that could be fatal. He is now safe, freed himself by living a much more healthy lifestyle and totally change the way he look at life now. The powerful impact of changing our way to look at things is really tremendous.
 Seeing him at the hospital lying on his bed, so desperate and so clinging to life, immediately transported me in the past. Suddenly continuous waves of emotions were collapsing on me, on my chest, days after days, pushing me to my limits so that i could not keep ignoring anymore the past events.
 
 I just had to face it with all my vulnerabilities and strength, alone at start. Because with who can i talk to about this, right? I was barely able to formulate my emotions or articulate any questions.
