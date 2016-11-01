@@ -1,13 +1,12 @@
 <header class="main-header {{ include.header_class }}{% if page.cover %}" style="background-image: url({{ site.baseurl | append: page.cover }}){% else %} no-cover{% endif %}">
 
-  <nav class="main-nav {% if page.cover %}{% else %}overlay{% endif %} clearfix">
+  <nav class="main-nav {% if page.cover %}overlay{% endif %} clearfix">
 
   {% if site.logo %}
-    <h1 class="site-title"><a href="{{ site.url | append: site.baseurl }}">{{ site.title }}</a></h1>
+    <a class="blog-logo" href="{{ site.url | append: site.baseurl }}"></a>
   {% endif %}
 
-
-  {% if site.navigation %}
+  <!-- {% if site.navigation %}
     /{% for item in site.navigation %}
             {% if page.url == item.slug %}
                 {% assign active = "active" %}
@@ -16,15 +15,15 @@
             {% endif %}
         <a href="{{ item.slug | prepend: site.baseurl }}" class="{{active}}">{{ item.label }}</a>
     {% endfor %}\
-  {% endif %}
+  {% endif %} -->
   {% if site.navigation %}
-    <!-- <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a> -->
+    <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
   {% endif %}
   </nav>
 {% if page.url == '/' %}
   <div class="vertical">
     <div class="main-header-content inner">
-      <!-- <h1 class="page-title">{{ site.title }}</h1> -->
+      <h1 class="page-title">{{ site.title }}</h1>
       <h2 class="page-description">{% if site.description %}{{ site.description }}{% endif %}</h2>
     </div>
   </div>

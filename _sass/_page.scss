@@ -45,6 +45,14 @@ button[data-am-button^="large"] {
     margin: 0 5px;
 }
 
+#btn-mute {
+    position: absolute;
+    right: 20px;
+    left: auto;
+    bottom: 20px;
+    top: auto;
+}
+
 #progress-bar {
     width: 100%;
     background-color: #000000;
@@ -60,9 +68,4 @@ button[data-am-button^="large"] {
     left: 0;
     -webkit-transition: width 2.5s linear 0;
     transition: width 2.5s linear 0;
-}
-
-/**/
-.blog-logo {
-    font-size: 2em;
 }
