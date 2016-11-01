@@ -22,7 +22,7 @@ So now, applying the concept of impermanence on death and our daily life would g
 
 As a very dear person to me was sharing with me this afternoon, death will ineluctably bring up emotions and regrets, whichever of the previous situations we are in.
 But make no mistakes here. We can be prepared as much as we can be, and still emotions and regrets will arise from our mind. I guess this is our human nature.
-But it does not mean that we don’t have to be prepared or to be questioning the cycle of life and death. I mean, isn’t it part of the fundamental questions that any of us should be asking ourselves and discussing with others: Who am i ? What am doing here on earth ? Is there any meaning in life ?
+But it does not mean that we don’t have to be prepared or to be questioning the cycle of life and death. I mean, isn’t it part of the fundamental questions that any of us should be asking ourselves and discussing with others: Who am i ? What am doing here on earth ? What is the meaning of life ?
 
 To quickly summarise our life situation, we all know that we are gonna die but we don’t acknowledge it and we are acting like it will not happen.
 One of the reason of this behaviour can be find in the extension of our lifespan over the last century.
