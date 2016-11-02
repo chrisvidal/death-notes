@@ -5,8 +5,8 @@ permalink: "/introduction/"
 #categories: jekyll update
 author: christophe
 excerpt: How many of us have lost a brother, a father, a mother, a son, a daughter, someone really close to us ?
-#cover: /images/covers/welcome.jpg # Header cover [optional]
-#image: /images/covers/welcome.jpg # Used by Twitter Cards and Open Graph [optional]
+cover: /images/covers/jasper.jpg # Header cover [optional]
+image: /images/covers/jasper.jpg # Used by Twitter Cards and Open Graph [optional]
 ---
 During winter 1999-2000, i was not prepared at all to assist a dying person, my father in law. It lasted about 8 months. Long weeks of suffering, long hours of waiting and hoping, such a powerless feeling was embracing all of us, guilt was popping in, sadness all over the place. I was 36.
 
