@@ -12,10 +12,10 @@ header:
 
 # Navigation
 navigation:
-  - slug: /about
+  - slug: /start-here
     label: Start here
-#  - slug: /resources
-#    label: resources
+  - slug: /resources
+    label: Resources
 
 #
 permalink: pretty

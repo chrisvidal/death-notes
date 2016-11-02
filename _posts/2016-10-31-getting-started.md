@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Getting started"
-permalink: "/getting-started"
+permalink: "/getting-started/"
 author: christophe
 excerpt: How many of us have lost a brother, a father, a mother, a son, a daughter, someone really close to us ?
-#cover: /images/covers/welcome.jpg # Header cover [optional]
-#image: /images/covers/welcome.jpg # Used by Twitter Cards and Open Graph [optional]
+cover: /images/covers/sky.jpg # Header cover [optional]
+image: /images/covers/sky.jpg # Used by Twitter Cards and Open Graph [optional]
 ---
 ### Impermanence
 

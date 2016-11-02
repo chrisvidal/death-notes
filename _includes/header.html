@@ -1,11 +1,9 @@
 <header class="main-header {{ include.header_class }}{% if page.cover %}" style="background-image: url({{ site.baseurl | append: page.cover }}){% else %} no-cover{% endif %}">
-
   <nav class="main-nav {% if page.cover %}overlay{% endif %} clearfix">
 
   {% if site.logo %}
     <a class="blog-logo" href="{{ site.url | append: site.baseurl }}"><div class="infinity"></div></a>
   {% endif %}
-
   <!-- {% if site.navigation %}
     /{% for item in site.navigation %}
             {% if page.url == item.slug %}
