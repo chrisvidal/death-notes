@@ -37,6 +37,9 @@
   {% endif %}
 
     <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+    {% if post.read_time %}
+        | <span class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+    {% endif %}
   </footer>
 </article>
 
