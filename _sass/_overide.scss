@@ -99,8 +99,20 @@ body:not(.page-template) .post-title {
     border-radius: 50% 50% 50% 0;
     -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
-    -webkit-animation: right 1s infinite alternate cubic-bezier(0.86, 0, 0.07, 1), morph 1s infinite alternate cubic-bezier(0.86, 0, 0.07, 1);
-    animation: right 1s infinite alternate cubic-bezier(0.86, 0, 0.07, 1), morph 1s infinite alternate cubic-bezier(0.86, 0, 0.07, 1);
+    // -webkit-animation: right 1s infinite alternate cubic-bezier(0.86, 0, 0.07, 1), morph 1s infinite alternate cubic-bezier(0.86, 0, 0.07, 1);
+    // animation: right 1s infinite alternate cubic-bezier(0.86, 0, 0.07, 1), morph 1s infinite alternate cubic-bezier(0.86, 0, 0.07, 1);
+}
+
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+    .infinity {
+        transform: scale(.55);
+    }
+
 }
 
 // ref: http://codepen.io/magnificode/full/WQvgda/
