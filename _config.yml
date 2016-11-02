@@ -6,6 +6,8 @@ description: ~ Death is certain ~ Time of death is uncertain ~
 baseurl:  # the subpath of your site, e.g. /blog
 url: http://death-notes.net # the base hostname & protocol for your site
 
+words_per_minute         : 200
+
 # Main header
 header:
   text_shadow: 0 0 20px rgba(28, 47, 53, .8) # CSS text-shadow
@@ -56,6 +58,7 @@ defaults:
     values:
       layout: page
       author_profile: false
+      read_time: true
       is_page: true
 # Plugins
 gems: [jekyll-paginate]

@@ -11,6 +11,9 @@ post_class: post-template
       {% if page.date %}
       <section class="post-meta">
         <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
+        {% if page.read_time %}
+          | <span class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+        {% endif %}
       </section>
       {% endif %}
     </header>
