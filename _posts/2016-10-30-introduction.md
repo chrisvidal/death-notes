@@ -26,7 +26,7 @@ Yes quite a good strategy; I’m still surprised how easy it was to ignore and b
 
 Until 17 years later when I received an unexpected invitation from death. In fact, the invitation came twice in early 2016.
 
-A young student of mine (I’m also a Philippine martial art teacher) who had been living an unhealthy life for years started to have serious health issues, so serious that it could have been fatal.
+A young student of mine (I’m also a Filipino martial art teacher) who had been living an unhealthy life for years started to have serious health issues, so serious that it could have been fatal.
 
 He is now safe and was healed by living a much healthier lifestyle and totally changing the way he looked at life. As an aside, the impact of changing our way of looking at things is really tremendous.
 
