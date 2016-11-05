@@ -1,22 +1,30 @@
-
 >Dying well is living well
 
-Death Notes is about bringing awareness on the subject of death. It is about openly talking about death before it is too late, it is about acknowledging our own death so that we can  bring more happiness into our own life and more care in other people life but also it is about discovering meaning to our life.
+Death Notes is about bringing awareness to the subject of death.
+
+It is about openly talking about death before it is too late;
+
+It is about acknowledging our own death so that we can bring more happiness into our lives and more care towards other people’s lives.
+
+It is also about discovering the meaning of our lives.
+
 I strongly believe that death does not have to be painful and that we can learn so much from it.
 
-Hi, my name is Christophe and i decided to start this blog to create an open space on the theme of death.
 
-I'm not a professional working on death in any kind of manner,  i'm not a doctor nor a psychiatrist nor a psychologist. I’m just trying to question my journey trough life and was brought to face death at some point in my life.
-My intention is double, deepen my inner work and understanding and share it, discuss it with the world.
+Hi, I am Christophe and I decided to start this blog to create an open space to talk about death.
 
-This blog lives to **talk**, **share** and **educate** people around the central theme of **death**.
+I'm not a professional working in the area of death; I'm not a doctor nor a psychiatrist nor a psychologist. I’m just trying to explore my journey through life, a journey that has included having to face death at one point.
 
-Thanks to a collective of people who are writing those articles, the blog is willing to transmit a diversity of sensibility about the subject.
+So, my intention is two-fold: to deepen my inner work and understanding, and to share and discuss this with the world.
 
-This blog is willing to be secular even though some spirituality  ideas could arise from some articles since all spiritual traditions cohere on addressing the subject on a deep level. It would be quite a loss if we were denying their teachings.
+This blog has been created then to **talk about**, **share** and **explore ** the theme of **death**.
+
+Thanks to a collective of people who are writing these articles, the blog will also present diverse ideas about this seemingly scary subject.
+
+The approach will be secular, even though spiritual ideas may appear in some of the articles since all spiritual traditions address death on a deep level. It would be quite a loss if we were to deny their teachings completely.
 
 
-### Content guide
+### Content guide:
 
 - the reason of the existence of this [Death Notes](/) website explained trough my personal experience with death in the [introduction](/introduction) article.
 - getting started with death in the [getting started](/getting-started) article.

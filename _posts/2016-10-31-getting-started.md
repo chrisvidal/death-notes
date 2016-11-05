@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Getting started"
+title: "Getting started"
 permalink: "/getting-started/"
 author: christophe
 excerpt: How many of us have lost a brother, a father, a mother, a son, a daughter, someone really close to us ?
@@ -9,40 +9,51 @@ image: /images/covers/sky.jpg # Used by Twitter Cards and Open Graph [optional]
 ---
 ### Impermanence
 
-One my teacher way to teach to the impermanence concept is to remind us that when we are not inside a life disaster moment, we are just between two life disaster moments.
+One of my teachers explains the concept of impermanence by reminding us that if we really think about it, we are either in the middle of a disaster or between two disasters.
 
-The first understanding is that life is a constant flow of  unpredictable moments. You don’t know what is coming and you only know what you are into at the present moment.
-The deeper understanding would be to deeply acknowledge and surrender to the first one so that we find in the present moment the very source of an (our) happier life.
+Basically, life is a constant flow of unpredictable moments. You don’t know what is coming and you only know what’s unfolding in the present moment.
 
-So now, applying the concept of impermanence on death and our daily life would give us the following different situations:
-- you will be dying in maybe few weeks or few months,
-- you know someone in your entourage who is going to die soon,
-- you know someone who just died recently,
-- if you are not in one of the three previous categories, you are just in the middle of one of them.
+An even deeper understanding would be to honestly acknowledge and surrender to the fact that we don’t know what will happen. And, if we can truly embrace this, we can then find a happier life in this very moment.
 
-As a very dear person to me was sharing with me this afternoon, death will ineluctably bring up emotions and regrets, whichever of the previous situations we are in.
-But make no mistakes here. We can be prepared as much as we can be, and still emotions and regrets will arise from our mind. I guess this is our human nature.
-But it does not mean that we don’t have to be prepared or to be questioning the cycle of life and death. I mean, isn’t it part of the fundamental questions that any of us should be asking ourselves and discussing with others: Who am i ? What am doing here on earth ? What is the meaning of life ?
+So, if we apply the concept of impermanence to death and our daily life, it might appear in the following situations:
 
-To quickly summarise our life situation, we all know that we are gonna die but we don’t acknowledge it and we are acting like it will not happen.
-One of the reason of this behaviour can be find in the extension of our lifespan over the last century.
-“It’s ok, i will have time to think about it when i’m retired” we usually try to convince ourselves. Well, if you get to retire yes maybe.
-And how many of us have lost a grand-parent, a father, a mother, a brother, a sister, a son, a daughter, someone really close to us ?
-Really we can’t hide like i did try for so many years neither we can’t escape from the future of this situation.
+- you will die in perhaps a few weeks or months,
+- someone close to you is going to die soon,
+- someone you know has died recently
 
-So, i’m just inviting you to think about death, and see for yourself what comes to mind in the first place.
-For me, it was the total helplessness felt in front of the dying. I didn’t know what to say or to do with the family or the dying or the doctors or the nurse or my friends when they asked questions. Because i though i can do something, because i though i have to do something. I just learned 17 years after that the only thing we can do is to be here, to be present with the persons and acknowledge the situation.
-> There is no greater act for others than acknowledging and being here with the person.
+If you aren’t in one of the three categories above, you are actually just in between them and one of them will definitely happen to you sooner or later.
 
-For you, it might be totally something else that comes up, let it come up and explore it gently.
+And, as a very dear person shared with me this afternoon, death will inevitably bring up emotions and regrets, no matter which of three previous situations we find ourselves in. 
+
+Make no mistakes here: we can be prepared as much as possible, and emotions and regrets will still arise. I guess this is our human nature.
+
+But this does not mean that we don’t need to be prepared or to be questioning the cycle of life and death. To me, this is one of the fundamental questions all of us should be asking ourselves and discussing with others: Who am I ? What am I doing here on earth? What is the meaning of life?
+
+To quickly summarise: we all know that we are going to die but we don’t acknowledge it and we act like it will not happen. 
+
+One of the reasons for this attitude is because of the extension of our lifespan over the last century. 
+“It’s ok, I will have time to think about death when I’m retired,” we usually try to convince ourselves. Well, maybe that’s so if you get that far.
+
+And how many of us have lost a grand-parent, a father, a mother, a brother, a sister, a son, a daughter, someone really close to us?
+We can try to hide from this like I did but eventually we can’t escape the reality of this kind of loss.
+
+So, I’d like to invite you to think about death, and see for yourself what comes to mind.
+
+For me, when I first reflected on death, I remembered the feeling of total helplessness when confronted with a dying person. I didn’t know what to say or to do with the family or the dying person or the doctors, the nurses or my friends when they asked questions. And this is because I thought there was something I could do and there was something I should do.
+Interestingly, I just learned 17 years later that the only thing we can really do is to be there, to be present with everyone and acknowledge the situation.
+
+> There is no greater act for others than acknowledging and being there with the person.
+
+For you, something totally different might come up when you contemplate death. Whatever it is, I invite you to let it come up and explore it gently.
+
 Try this:
 - find a comfortable sitting position in a quiet place
 - close your eyes and bring your attention inward
 - quickly check your entire body and notice any tension
-- relax this tensions during the expiration
+- relax this tension during the exhale
 - bring to mind the word “death”
 - don’t try to think, just invite the word in
-- and observe what is coming up with in your body, in your heart and in your mind
+- observe what is coming up within your body, in your heart and in your mind
 - open your eyes, stay still for few more seconds looking at the experience
 - you can write down whatever came up
 
@@ -51,11 +62,11 @@ Try this:
 
 ### Subjects that will be addressed
 
-So let’s see the exciting subjects that we will explore along the coming articles:
+Below are some of the subjects that we will explore in upcoming articles:
 
 - preparing for our own death
 - facing our own death
-- accompanying / assisting a dying
+- accompanying / assisting a dying person
 - intensive care facility
 - grieving
 - family
