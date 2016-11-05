@@ -1,3 +1,13 @@
+.home-cta {
+    color: #fff;
+    margin-top: 20px;
+    display: inline-block;
+    text-decoration: none;
+    &:hover {
+        color: #fafafa;
+        text-decoration: underline;
+    }
+}
 .audio-container {
     position: absolute;
     top: auto;
