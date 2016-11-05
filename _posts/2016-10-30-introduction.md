@@ -22,7 +22,7 @@ After this tragic event, life went on. Three months later, just to amplify the s
 
 To cope with all of this, I unconsciously buried the death of my father in law deep, deep inside. I decided to avoid facing this challenge, pretending to myself that it never happened. 
 
-Yes quite a good strategy; I’m still surprised how easy it was to ignore and bury it all. .And it worked very, very well actually…
+Yes quite a good strategy; I’m still surprised how easy it was to ignore and bury it all. And it worked very, very well actually…
 
 Until 17 years later when I received an unexpected invitation from death. In fact, the invitation came twice in early 2016.
 
@@ -30,7 +30,7 @@ A young student of mine (I’m also a Philippine martial art teacher) who had be
 
 He is now safe and was healed by living a much healthier lifestyle and totally changing the way he looked at life. As an aside, the impact of changing our way of looking at things is really tremendous.
 
-However, seeing him at the hospital, lying on his bed, so desperate and clinging to life, immediately transported me to the past. Suddenly, continuous waves of emotion surged and collapsed on me, in my chest, day after day, pushing me to my limit so that I could no longer keep ignoring the events of the past.. 
+However, seeing him at the hospital, lying on his bed, so desperate and clinging to life, immediately transported me to the past. Suddenly, continuous waves of emotion surged and collapsed on me, in my chest, day after day, pushing me to my limit so that I could no longer keep ignoring the events of the past... 
 
 I had no choice but to face what had happened with my father-in-law with all my vulnerability and strength. I was all alone at first. Who could I talk to about this, right? Anyway, I was barely able to formulate my emotions or articulate any questions. 
 
