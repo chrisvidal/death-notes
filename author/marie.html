@@ -1,0 +1,7 @@
+---
+layout: author
+title: Marie's Posts
+author: marie
+---
+{% assign posts = site.posts | where: 'author', 'marie' %}
+{% include loop.html posts=posts  %}
