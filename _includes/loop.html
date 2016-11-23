@@ -5,6 +5,7 @@
 {% endif %}
 
 {% for post in include.posts %}
+{% unless post.draft %}
 {% assign author = site.data.authors[post.author] %}
 
 {% if author.gravatar %}
@@ -42,7 +43,7 @@
     {% endif %}
   </footer>
 </article>
-
+{% endunless %}
 {% endfor %}
 
 {% if paginator %}
