@@ -4,8 +4,8 @@ title:  "Tomorrow is your last day"
 permalink: "/tomorrow-is-your-last-day/"
 author: marie
 excerpt: "You have only 24 hours to live on Earth"
-cover: /images/covers/tree.jpg # Header cover [optional]
-image: /images/covers/tree.jpg # Used by Twitter Cards and Open Graph [optional]
+cover: /images/covers/sunrise.jpg # Header cover [optional]
+image: /images/covers/sunrise.jpg # Used by Twitter Cards and Open Graph [optional]
 ---
 > You have only 24 hours to live on Earth
 
