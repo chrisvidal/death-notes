@@ -4,12 +4,10 @@ title:  "Can we die before we die?"
 permalink: "/can-we-die-before-we-die/"
 draft: true
 author: jan
-excerpt: "Can we die before we die?"
+excerpt:
 cover: /images/covers/bench.jpg # Header cover [optional]
 image: /images/covers/bench.jpg # Used by Twitter Cards and Open Graph [optional]
 ---
-Can we die before we die?
-
 Wednesday, November 25th 2015, started as any other day. Being a westerner living in Singapore, I was trying to get the most out of our time in Asia. As long as I could remember, I had been fascinated by Asian culture.
 
 My instructors in the martial art Kali Majapahit had inspired me to change my lifestyle, and I trained as much as possible. I had recently changed to a vegetarian diet and followed spiritual and meditation training. Little did I know that my 2pm appointment would fast forward everything, and transform my life.
@@ -25,6 +23,7 @@ He had already scheduled my next appointment at 4pm, where I met my new cancer d
 He told me, I had been diagnosed with an aggressive throat cancer called squamous cell carcinoma. This cancer is usually caused by heavy smoking or large consumptions of alcohol. I was neither smoking nor drinking, so he later explained that 10% of the diagnosed patients were healthy males between 30-50 years, and they were not able to explain, why these men got this type of cancer.
 
 I asked the doctor, what my chances were to get through this. He answered, it was simply too early to say. I told him, I had to tell my wife that night, and needed more than "I have cancer". He said without the scans, it was not possible to say, how far my cancer had developed. I begged him to give me something. He made some drawings, and showed that if I was in this stage, I had a chance of being cured, and if I was in the other end, I had maximum 1-2 years left to live.
+
 Everything changed the second he gave me that prognosis. Suddenly everything happened in slow motion and my life started passing by. I realised, maybe I would never see my two sons grow up or do all the things, I always wanted to do.
 To my surprise right there in the doctor’s office, it took less than 10 minutes of tears to accept that I was going to die, however I could not accept, what this meant for my sons. My wife would be fine, and she could find someone else, but my sons would be without a father at such a young age.
 
@@ -35,6 +34,7 @@ I lived with this diagnose for 6 days. Sitting up late nights discussing life an
 We all know we are going to die one day, but when you are told something specific, and it is no longer in some imaginary future, you become painfully aware of our most precious resource – time.
 
 You start appreciating the smaller things in life: a smile from a stranger, an email from a friend, a hug from your children or a goodbye kiss from your wife. Not that these things did not matter before, but suddenly I caught myself being mindful in these moments, sometimes having a tear in my eyes for no other reason than appreciating the moment.
+
 After my PET and MRI scans, I was in the hospital bed waiting for the results. Thoughts ran through my head, and I decided to make some promises to myself, in case I would come out of this alive. I wrote them down in a random order:
 
 - Spend more time with my sons
@@ -48,7 +48,9 @@ After my PET and MRI scans, I was in the hospital bed waiting for the results. T
 - Try a lot of new things in my life and build new skills as often as possible
 
 The results came, and my doctor explained me the conclusions from the PET and MRI scans. They showed the cancer had developed into stage 2. This meant the cancer was in a relatively early stage, and I had a fair chance of being cured.
-Before we could conclude anything, I had to go through a 10 hour robotic assisted surgery down through my throat to remove the tumour. Afterwards I had a neck dissection to confirm, whether all my neck nodes were clear, meaning the cancer had not spread into other areas of my body. This last procedure left me with a long scar on my neck, now reminding me every day about my mortality and my second chance in life.
+Before we could conclude anything, I had to go through a 10 hour robotic assisted surgery down through my throat to remove the tumour.
+
+Afterwards I had a neck dissection to confirm, whether all my neck nodes were clear, meaning the cancer had not spread into other areas of my body. This last procedure left me with a long scar on my neck, now reminding me every day about my mortality and my second chance in life.
 
 Going through all of this, while painful and stressful, it was not a long and complicated treatment compared to what some cancer patients go through with countless radiation and chemotherapy treatments. It is hard to imagine how such a situation changes you and your closest relatives, unless you have experienced someone close to you being diagnosed with cancer.
 
