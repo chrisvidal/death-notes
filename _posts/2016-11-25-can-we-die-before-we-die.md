@@ -2,7 +2,6 @@
 layout: post
 title:  "Can we die before we die?"
 permalink: "/can-we-die-before-we-die/"
-draft: true
 author: jan
 excerpt:
 cover: /images/covers/bench.jpg # Header cover [optional]
