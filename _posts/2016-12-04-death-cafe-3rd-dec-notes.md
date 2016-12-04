@@ -19,7 +19,9 @@ After few hours of TaiChi, WingChun, Silat and knife self-defence some of us mov
 
 ![Kali Majapahit Free Hugs 2016](/images/events/KM_Free_Hugs_Singapore_2016.jpg  "Kali Majapahit Free Hugs 2016"){: width="100%"}*Kali Majapahit Free Hugs 2016*
 
-No need to say how much our heart (dear friends and I) were open before this death cafe event.
+No need to say how much our heart (dear friends and I) were open  and imbued with love before this death cafe event.
+
+This was my second time attending a death cafe session. I guess the reason why i came back is that somewhere in me i am hoping to be able to facilitate future death cafe sessions.
 
 Now the notes about the beautiful and flowing session organised by [The Still Space](https://thestillspace.org/what-we-do/workshops-and-events/death-cafe/){:target="_blank"}.
 
